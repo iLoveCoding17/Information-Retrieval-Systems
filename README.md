@@ -21,7 +21,13 @@ Python, pandas, NumPy, scikit-learn, NLTK, Whoosh, PyTorch, torchvision, OpenCV,
  
 This project was developed with support from the [DAMLR Lab](https://web.cs.dal.ca/~gaw/) and the [Dalhousie Faculty of Computer Science](https://www.dal.ca/faculty/computerscience.html).
  
+
+<img width="221" height="63" alt="image" src="https://github.com/user-attachments/assets/49e20174-59fb-4a9b-8ace-2983ef8d9eae" />
+
 [DAMLR Lab]
 
+<br>
+<img width="314" height="161" alt="image" src="https://github.com/user-attachments/assets/87a6f1aa-9955-4e84-9328-cfd0bfa3d3ae" />
 
 [Dalhousie Faculty of Computer Science]
+
