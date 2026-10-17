@@ -2,6 +2,8 @@
  
 Four Python retrieval systems in one repo: keyword search, image search, semantic search with recommenders, and retrieval-augmented generation (RAG). Each module is a self-contained notebook.
 
+## Note
+- If you see the error "Unable to render code block". Please try to open the repo in an incognito/private window.
  
 ## Modules
  
