@@ -1,4 +1,4 @@
-# Information Retrieval Toolkit
+# Information Retrieval Systems
  
 Four Python retrieval systems in one repo: keyword search, image search, semantic search with recommenders, and retrieval-augmented generation (RAG). Each module is a self-contained notebook.
 
